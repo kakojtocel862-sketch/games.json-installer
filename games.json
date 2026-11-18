@@ -1,0 +1,164 @@
+{
+  "DATA": {
+    "https://archive.org/download/ps4-fpkg-collection-english-k/KILLZONE%20SHADOW%20FALL%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.81%5D.pkg": {
+      "title_id": "CUSA00008",
+      "region": "EU",
+      "name": "KILLZONE SHADOW FALL",
+      "version": "01.81",
+      "release": "2013-11-29",
+      "size": 45918453760,
+      "min_fw": "01.00",
+      "cover_url": null
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-k/KINGDOM%20HEARTS%201.5%20%2B%202.5%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.05%5D.pkg": {
+      "title_id": "CUSA00000",
+      "region": "EU",
+      "name": "KINGDOM HEARTS 1.5 + 2.5",
+      "version": "01.05",
+      "release": "2017-03-31",
+      "size": 45185826816,
+      "min_fw": "04.00",
+      "cover_url": null
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-k/KINGDOM%20HEARTS%20III%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.10%5D.pkg": {
+      "title_id": "CUSA12025",
+      "region": "EU",
+      "name": "KINGDOM HEARTS III",
+      "version": "01.10",
+      "release": "2019-01-29",
+      "size": 46960345088,
+      "min_fw": "05.50",
+      "cover_url": null
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-k/KINGDOM%20HEARTS%20Melody%20of%20Memory%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.04%5D.pkg": {
+      "title_id": "CUSA18900",
+      "region": "EU",
+      "name": "KINGDOM HEARTS Melody of Memory",
+      "version": "01.04",
+      "release": "2020-11-13",
+      "size": 6390415360,
+      "min_fw": "07.55",
+      "cover_url": null
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-k/KNACK%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.10%5D.pkg": {
+      "title_id": "CUSA00006",
+      "region": "EU",
+      "name": "KNACK",
+      "version": "01.10",
+      "release": "2013-11-29",
+      "size": 34769928192,
+      "min_fw": "01.00",
+      "cover_url": null
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-k/KNACK%202%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.01%5D.pkg": {
+      "title_id": "CUSA08014",
+      "region": "EU",
+      "name": "KNACK 2",
+      "version": "01.01",
+      "release": "2017-09-05",
+      "size": 35430596608,
+      "min_fw": "04.70",
+      "cover_url": null
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-k/Keep%20Talking%20and%20Nobody%20Explodes%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.07%5D.pkg": {
+      "title_id": "CUSA06561",
+      "region": "EU",
+      "name": "Keep Talking and Nobody Explodes",
+      "version": "01.07",
+      "release": "2016-10-13",
+      "size": 314507264,
+      "min_fw": "03.50",
+      "cover_url": null
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-k/Kena%20Bridge%20of%20Spirits%20-%20%5BEU%5D%20%5BEN%5D%20%5B2.08%5D.pkg": {
+      "title_id": "CUSA24853",
+      "region": "EU",
+      "name": "Kena Bridge of Spirits",
+      "version": "02.08",
+      "release": "2021-09-21",
+      "size": 9392422912,
+      "min_fw": "08.00",
+      "cover_url": null
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-k/Kentucky%20Route%20Zero%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.03%5D.pkg": {
+      "title_id": "CUSA10065",
+      "region": "EU",
+      "name": "Kentucky Route Zero",
+      "version": "01.03",
+      "release": "2020-01-28",
+      "size": 1245380608,
+      "min_fw": "05.55",
+      "cover_url": null
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-k/Kerbal%20Space%20Program%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.01%5D.pkg": {
+      "title_id": "CUSA00000",
+      "region": "EU",
+      "name": "Kerbal Space Program",
+      "version": "01.01",
+      "release": "2018-01-18",
+      "size": 922877952,
+      "min_fw": "05.00",
+      "cover_url": null
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-k/KeyWe%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.04%5D.pkg": {
+      "title_id": "CUSA25258",
+      "region": "EU",
+      "name": "KeyWe",
+      "version": "01.04",
+      "release": "2021-08-31",
+      "size": 834404352,
+      "min_fw": "08.00",
+      "cover_url": null
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-k/Killing%20Floor%202%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.76%5D.pkg": {
+      "title_id": "CUSA05179",
+      "region": "EU",
+      "name": "Killing Floor 2",
+      "version": "01.76",
+      "release": "2016-11-18",
+      "size": 40637956096,
+      "min_fw": "04.00",
+      "cover_url": null
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-k/Kingdom%20Come%20Deliverance%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.04%5D.pkg": {
+      "title_id": "CUSA07180",
+      "region": "EU",
+      "name": "Kingdom Come Deliverance",
+      "version": "01.04",
+      "release": "2018-02-13",
+      "size": 30273765376,
+      "min_fw": "05.00",
+      "cover_url": null
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-k/Kingdom%20Hearts%202.8%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.05%5D.pkg": {
+      "title_id": "CUSA05787",
+      "region": "EU",
+      "name": "Kingdom Hearts 2.8",
+      "version": "01.05",
+      "release": "2017-01-24",
+      "size": 29428547584,
+      "min_fw": "04.00",
+      "cover_url": null
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-k/Knowledge%20is%20Power%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.01%5D.pkg": {
+      "title_id": "CUSA06044",
+      "region": "EU",
+      "name": "Knowledge is Power",
+      "version": "01.01",
+      "release": "2017-10-24",
+      "size": 1684537344,
+      "min_fw": "05.00",
+      "cover_url": null
+    },
+    "https://archive.org/download/ps4-fpkg-collection-english-k/Knowledge%20is%20Power%20Decades%20-%20%5BEU%5D%20%5BEN%5D%20%5B1.01%5D.pkg": {
+      "title_id": "CUSA12356",
+      "region": "EU",
+      "name": "Knowledge is Power Decades",
+      "version": "01.01",
+      "release": "2018-11-06",
+      "size": 1451687936,
+      "min_fw": "06.00",
+      "cover_url": null
+    }
+  }
+}
